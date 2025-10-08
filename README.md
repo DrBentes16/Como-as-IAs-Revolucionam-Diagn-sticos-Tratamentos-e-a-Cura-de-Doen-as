@@ -1,0 +1,2 @@
+# Como-as-IAs-Revolucionam-Diagn-sticos-Tratamentos-e-a-Cura-de-Doen-as
+A Inteligência Artificial (IA) está desempenhando um papel transformador na medicina, impactando desde diagnósticos mais rápidos e precisos até o desenvolvimento de tratamentos personalizados. Este ebook explora como as tecnologias de IA estão sendo aplicadas na medicina e os benefícios que elas trazem para pacientes e profissionais de saúde.
