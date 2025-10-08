@@ -1,7 +1,7 @@
 # Inteligência Artificial na Medicina
 **Como as IAs Revolucionam Diagnósticos, Tratamentos e a Cura de Doenças**
 
-![IA na Medicina](images/ia_diagnosticos.jpg)
+![IA na Medicina](ebook_1.jpg)
 
 ## Introdução
 A Inteligência Artificial (IA) está transformando a medicina, impactando diagnósticos, tratamentos e prevenção de doenças. Este ebook explora como a IA está sendo aplicada na medicina moderna e seus benefícios para pacientes e profissionais de saúde.
@@ -11,7 +11,7 @@ A Inteligência Artificial (IA) está transformando a medicina, impactando diagn
 ## Capítulo 1 – O Papel da IA nos Diagnósticos Médicos
 A IA tem revolucionado a forma como doenças são detectadas. Algoritmos avançados analisam imagens médicas como radiografias, tomografias e ressonâncias, muitas vezes com precisão superior à de médicos experientes.
 
-![Diagnósticos com IA](images/ia_diagnosticos.jpg)
+![Diagnósticos com IA](ebook_2.jpg)
 
 **Exemplos práticos:**
 - Diagnóstico precoce de câncer de mama com redes neurais.
@@ -25,7 +25,7 @@ A IA tem revolucionado a forma como doenças são detectadas. Algoritmos avança
 ---
 
 ## Capítulo 2 – IA no Desenvolvimento de Tratamentos
-![IA em Tratamentos](images/ia_tratamentos.jpg)
+![IA em Tratamentos](ebook_3.jpg)
 
 **Exemplos práticos:**
 - Desenvolvimento de medicamentos personalizados.
@@ -39,7 +39,7 @@ A IA tem revolucionado a forma como doenças são detectadas. Algoritmos avança
 ---
 
 ## Capítulo 3 – IA na Prevenção de Doenças
-![IA na Prevenção](images/ia_prevencao.jpg)
+![IA na Prevenção](ebook_4.jpg)
 
 **Exemplos práticos:**
 - Previsão de ataques cardíacos a partir de sinais vitais.
@@ -53,7 +53,7 @@ A IA tem revolucionado a forma como doenças são detectadas. Algoritmos avança
 ---
 
 ## Capítulo 4 – O Futuro da Medicina com IA
-![Futuro da Medicina com IA](images/ia_futuro.jpg)
+![Futuro da Medicina com IA](ebook_5.jpg)
 
 **Tendências futuras:**
 - Medicina de precisão baseada em genômica.
